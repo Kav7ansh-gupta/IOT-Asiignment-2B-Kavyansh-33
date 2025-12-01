@@ -1,3 +1,4 @@
+//This is a led controlling code via sensor 
 int sensorValue = 0;
 int outputValue = 0;
 void setup()
